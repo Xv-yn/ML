@@ -697,4 +697,8 @@ It then calculates the mean of that matrix (`xprev`) and inserts the result into
 
 ###### Self-Attention Weighted Aggregation
 
+### TODO
+
+ - Feed Forward
+ - Backpropagation
 
